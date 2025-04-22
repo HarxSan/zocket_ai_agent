@@ -8,10 +8,16 @@
 A powerful web application to scrape websites, search the web, and generate AI-powered summaries using Google's Gemini API.
 
 
-Live Demo: The application is hosted on Render and can be accessed at https://zocket-ai-agent-asvl.onrender.com
+##Deployment Information 
 
 
-Usage Note: Please allow up to 1 minute for initial loading when accessing the application, as Render automatically shuts down the service after 15 minutes of inactivity to conserve resources
+The agent has been deployed and is publicly accessible:
+
+
+-Live Demo: The application is hosted on Render and can be accessed at https://zocket-ai-agent-asvl.onrender.com
+
+
+-Usage Note: Please allow up to 1 minute for initial loading when accessing the application, as Render automatically shuts down the service after 15 minutes of inactivity to conserve resources
 
 
 ## 🌟 Features
