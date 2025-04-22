@@ -110,11 +110,6 @@ web-content-analyzer/
 └── README.md           # This documentation
 ```
 
-## 🔒 Security Notes
-
-- Never commit your `.env` file or API keys to version control
-- For production deployment, consider using Docker secrets or environment variables
-
 ## 🛠️ Troubleshooting
 
 ### Common Issues
@@ -139,17 +134,3 @@ web-content-analyzer/
 - python-dotenv: Environment variable management
 - google-generativeai: Google's Gemini AI API
 - beautifulsoup4: HTML parsing
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgements
-
-- [Streamlit](https://streamlit.io/) for the wonderful UI framework
-- [Jina AI](https://jina.ai/) for the web scraping and search APIs
-- [Google Gemini](https://ai.google.dev/) for the AI summarization capabilities
-
----
-
-⭐ If you find this project helpful, please consider giving it a star!
