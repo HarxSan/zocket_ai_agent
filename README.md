@@ -7,6 +7,11 @@
 
 A powerful web application to scrape websites, search the web, and generate AI-powered summaries using Google's Gemini API.
 
+
+The Project is live in : https://zocket-ai-agent-asvl.onrender.com 
+
+(Please wait for about 50 sec to 1 min while accessing for it to spin up as it runs on a free tier instance)
+
 ## 🌟 Features
 
 - **Web Scraping**: Extract text content from any website
